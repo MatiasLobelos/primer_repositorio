@@ -1,2 +1,360 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+	<link rel="stylesheet" type="text/css" href="estilos.css">
+	<script src="https://kit.fontawesome.com/5c16864742.js" crossorigin="anonymous"></script>
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@1,300&display=swap" rel="stylesheet">
+	<link rel="icon" href="images/logo.png">
+
+	<title>EMPLE-ARTE</title>
+</head>
+<body>
+
+</nav>
+
+<nav class="nav1">
+	<ul class="menu-horizontal1">
+
+		<li><a href="index.html">inicio</a></li>
+		<li>
+			<a href="index.html">cursos</a>
+			<ul class="menu-vertical1">
+				<li><a href="">informatica</a></li>
+				<li><a href="">salud</a></li>
+				<li><a href="">especializacion</a></li>
+			</ul>
+		</li>
+		<li><a href="index.html">novedades</a></li>
+		<li><a href="index.html">conocenos</a></li>
+		<li>
+			<a href="#" class="boton"><i class="fa-solid fa-magnifying-glass"></i>
+	        <input type="text" name="buscar-texto" class="buscador">
+			</a>
+</li>
+	</ul>
+</nav>	
+
+
+
+<nav class="nav2">
+		<ul class="navperfil">
+
+		<li class="iconoperfil">
+			
+			<i class="fa-solid fa-user"></i>
+
+				<ul class="menu-vertical-perfil">
+					<li><a href="#">mis cursos</a></li>
+					<li><a href="#">datos personales</a></li>
+					<li><a href="#">cursos relacionados</a></li>
+					<li><a href="#">soporte del alumno</a></li>
+				</ul>
+			
+		</li>
+</nav>
+
+
+</div>
+<div class="container ">
+
+	<div class="card">
+		<figure>
+			<img src="images/curso-acompañanteterapeutico.jpg">
+		</figure>
+	
+	<div class="contenido">	<h3>Acompañante Terapeutico</h3>
+		<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod</p>
+		<a href="#">leer mas</a>
+		</div>
+	</div>
+	
+
+
+		<div class="card">
+		<figure>
+			<img src="images/curso-cuidadosintensivos.jpg">
+		</figure>
+	
+	<div class="contenido">	<h3>Cuidados Intensivos</h3>
+		<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod</p>
+		<a href="#">leer mas</a>
+		</div>
+	</div>
+
+
+
+		<div class="card">
+		<figure>
+			<img src="images/curso-secretariadomedico.jpg">
+		</figure>
+	
+	<div class="contenido">	<h3>Secretariado Medico</h3>
+		<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod</p>
+		<a href="#">leer mas</a>
+		</div>
+	</div>
+
+
+
+
+		<div class="card">
+		<figure>
+			<img src="images/curso-electricista.jpg">
+		</figure>
+	
+	<div class="contenido">	<h3>Electricista</h3>
+		<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod</p>
+		<a href="#">leer mas</a>
+		</div>
+	</div>
+
+
+
+
+
+
+		<div class="card">
+		<figure>
+			<img src="images/curso-reparacionpc.jpg">
+		</figure>
+	
+	<div class="contenido">	<h3>Reparacion de PC y Celulares</h3>
+		<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod</p>
+		<a href="#">leer mas</a>
+		</div>
+	</div>
+
+
+
+
+		<div class="card">
+		<figure>
+			<img src="images/curso-herramientasinformaticas.jpg">
+		</figure>
+	
+	<div class="contenido">	<h3>Herramientas Informaticas</h3>
+		<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod</p>
+		<a href="#">leer mas</a>
+		</div>
+	</div>
+
+
+
+
+		<div class="card">
+		<figure>
+			<img src="images/curso-marketingdigital.jpg">
+		</figure>
+	
+	<div class="contenido">	<h3>Marketing Digital</h3>
+		<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod</p>
+		<a href="#">leer mas</a>
+		</div>
+	</div>
+
+
+
+
+		<div class="card">
+		<figure>
+			<img src="images/curso-criptomonedas.jpg">
+		</figure>
+	
+	<div class="contenido">	<h3>Criptomonedas</h3>
+		<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod</p>
+		<a href="#">leer mas</a>
+		</div>
+	</div>
+
+
+
+
+		<div class="card">
+		<figure>
+			<img src="images/curso-finanzaspersonales.jpg">
+		</figure>
+	
+	<div class="contenido">	<h3>Finanzas Personales</h3>
+		<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod</p>
+		<a href="#">leer mas</a>
+		</div>
+	</div>
+
+
+
+		<div class="card">
+		<figure>
+			<img src="images/curso-ingles.jpg">
+		</figure>
+	
+	<div class="contenido">	<h3>Ingles</h3>
+		<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod</p>
+		<a href="#">leer mas</a>
+		</div>
+	</div>
+
+
+
+
+		<div class="card">
+		<figure>
+			<img src="images/curso-manicure.jpg">
+		</figure>
+	
+	<div class="contenido">	<h3>Manicure</h3>
+		<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod</p>
+		<a href="#">leer mas</a>
+		</div>
+	</div>
+
+
+
+		<div class="card">
+		<figure>
+			<img src="images/curso-bartender.jpg">
+		</figure>
+	
+	<div class="contenido">	<h3>Bartender</h3>
+		<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod</p>
+		<a href="#">leer mas</a>
+		</div>
+	</div>
+
+
+
+
+
+		<div class="card">
+		<figure>
+			<img src="images/curso-peluqueriaybarberia.jpg">
+		</figure>
+	
+	<div class="contenido">	<h3>Peluqueria y Barberia</h3>
+		<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod</p>
+		<a href="#">leer mas</a>
+		</div>
+	</div>
+
+
+
+
+
+
+		<div class="card">
+		<figure>
+			<img src="images/curso-comunitymanager.jpg">
+		</figure>
+	
+	<div class="contenido">	<h3>Comunity Manager</h3>
+		<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod</p>
+		<a href="#">leer mas</a>
+		</div>
+	</div>
+
+
+
+
+
+
+		<div class="card">
+		<figure>
+			<img src="images/curso-hoteleriayturismo.jpg">
+		</figure>
+	
+	<div class="contenido">	<h3>Hoteleria y Turismo</h3>
+		<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod</p>
+		<a href="#">leer mas</a>
+		</div>
+	</div>
+
+</div>
+
+
+
+
+
+<div class="segundobody">
+
+
+	<div class="porque-emplearte" data-aos="zoom-in-left">
+		<img src="images/personaestudiando.jpg">
+		<p class="texto1">
+			Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+			tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+			quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+			consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+			cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+			proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+
+		</p>
+		
+	</div>
+
+	<div class="certificacion-nacional">
+		<img src="images/personagraduada.png"><p></p>
+		
+	</div>
+	<div class="servicio-personalizado">
+		<img src="images/callcenter.png"><p></p>
+		
+	</div>
+	<div class="capacitacion-empresarial">
+		<img src="images/empresarios.jpg"><p></p>
+	</div>
+
+
+</div>
+
+<div class="fondoparataparelfooter">
+<footer>
+	<div class="container__footer">
+		<div class="box__footer">
+			<div class="logo">
+				<img src="images/logo.png" alt="logo">
+				
+			</div>
+			<div class="terms">
+				<p><italic>"EMPLE-ARTE"</italic> nuestro compromiso es ayudarte
+				</p>
+			</div>
+		</div>
+			<div class="box__footer">
+				<h2 class="contacto">CONTACTO</h2>
+				<a href="">MESA ADMINISTRATIVA</a>
+				<a href="">ATENCION ALUMNOS</a>
+				<a href="">ATENCION COMERCIAL</a>
+			</div>
+
+			<div class="box__footer">
+				<h2>NUESTRA EMPRESA</h2>
+				<a href=""></a>
+				<a href="">NUESTROS IDEALES</a>
+				<a href="">CAPACITACIONES EMPRESARIALES PRIVADAS</a>
+			</div>
+
+			<div class="box__footer">
+				<h2>REDES SOCIALES</h2>
+				<a href=""><i class="fa-brands fa-square-facebook"></i>FACEBOOK</a>
+				<a href=""><i class="fa-brands fa-square-instagram"></i>INSTAGRAM</a>
+				<a href=""><i class="fa-brands fa-square-twitter"></i>TWITTER</a>
+			</div>
+	</div>
+
+
+	<script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+	<script>AOS.init();</script>
+
+</footer>
+</div>
+</div>
+</body>
+</html>
